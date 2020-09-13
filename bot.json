@@ -1,0 +1,79 @@
+{
+  "update_id": 702476276,
+  "message": {
+    "message_id": 669,
+    "from": {
+      "id": 763563100,
+      "is_bot": false,
+      "first_name": "✵ℬαхτɪɤσℛ✵",
+      "username": "realvirus",
+      "language_code": "en"
+    },
+    "chat": {
+      "id": 763563100,
+      "first_name": "✵ℬαхτɪɤσℛ✵",
+      "username": "realvirus",
+      "type": "private"
+    },
+    "date": 1591555834,
+    "forward_from": {
+      "id": 660086073,
+      "is_bot": false,
+      "first_name": "吴敏俊",
+      "username": "wuminjun"
+    },
+    "forward_date": 1591555051,
+    "text": "siz qaysi habarga reply qilsez siz reply qilgan habarni kimdan kelgani i va habar idsi olishiz kk"
+  }
+}
+
+
+
+
+
+{
+  "update_id": 702476277,
+  "message": {
+    "message_id": 670,
+    "from": {
+      "id": 763563100,
+      "is_bot": false,
+      "first_name": "✵ℬαхτɪɤσℛ✵",
+      "username": "realvirus",
+      "language_code": "en"
+    },
+    "chat": {
+      "id": 763563100,
+      "first_name": "✵ℬαхτɪɤσℛ✵",
+      "username": "realvirus",
+      "type": "private"
+    },
+    "date": 1591555893,
+    "reply_to_message": {
+      "message_id": 669,
+      "from": {
+        "id": 763563100,
+        "is_bot": false,
+        "first_name": "✵ℬαхτɪɤσℛ✵",
+        "username": "realvirus",
+        "language_code": "en"
+      },
+      "chat": {
+        "id": 763563100,
+        "first_name": "✵ℬαхτɪɤσℛ✵",
+        "username": "realvirus",
+        "type": "private"
+      },
+      "date": 1591555834,
+      "forward_from": {
+        "id": 660086073,
+        "is_bot": false,
+        "first_name": "吴敏俊",
+        "username": "wuminjun"
+      },
+      "forward_date": 1591555051,
+      "text": "siz qaysi habarga reply qilsez siz reply qilgan habarni kimdan kelgani i va habar idsi olishiz kk"
+    },
+    "text": "Vv"
+  }
+}
